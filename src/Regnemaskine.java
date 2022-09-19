@@ -17,5 +17,6 @@ public class Regnemaskine {
 
 
         //Hej dette er en kommentar fra Jacob
+        // Dette er en kommentar fra Philip
     }
 }
