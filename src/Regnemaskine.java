@@ -13,9 +13,8 @@ public class Regnemaskine {
         tal2 = brugerinput.nextInt();
         System.out.println("Tast 1 for at plusse tallene, tast 2 for at minusse tallene eller tast 3 for at gange");
         plusminus = brugerinput.nextInt();
-        if (plusminus == 1) System.out.println(tal1+tal2);
-        if (tal1 < 5)
-            System.out.println("Det første tal du indtastede er over 5!");
+        if (plusminus == 1) System.out.println(tal1*tal2);
+
 
         //Hej dette er en kommentar fra Jacob
     }
