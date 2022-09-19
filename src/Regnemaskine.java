@@ -17,5 +17,6 @@ public class Regnemaskine {
         if (tal1 < 5)
             System.out.println("Det første tal du indtastede er over 5!");
 
+        //Hej dette er en kommentar fra Jacob
     }
 }
