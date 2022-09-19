@@ -15,7 +15,6 @@ public class Regnemaskine {
         plusminus = brugerinput.nextInt();
         if (plusminus == 1) System.out.println(tal1+tal2);
         if (plusminus == 2) System.out.println(tal1-tal2);
-        if (plusminus == 3) System.out.println(tal1*tal2);
 
 
     }
